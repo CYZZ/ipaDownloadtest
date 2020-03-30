@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.50.9:8989/%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/TS%e5%86%85%e7%bd%910327.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://fileks.mushao.com/GameFile/GameIcon/20190701/2ef6001c537e40ce8b761e426b5c697c.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://fileks.mushao.com/GameFile/GameIcon/20190701/2ef6001c537e40ce8b761e426b5c697c.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.pxgame.pmcs</string>
+				<key>bundle-version</key>
+				<string>3.0.78</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>TS测试demo，随便看看</string>
+				<key>title</key>
+				<string>ts测试demo</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
